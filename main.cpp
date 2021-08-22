@@ -30,6 +30,9 @@ auto S1 = SWITCH_B5();
 auto S2 = SWITCH_B3();
 auto S3 = SWITCH_B4();
 
+// Buzzer
+// auto Buzzer = PB2;
+
 int main(void)
 {
     Callback::init();
