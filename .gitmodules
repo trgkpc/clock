@@ -1,0 +1,3 @@
+[submodule "avr_lib"]
+	path = avr_lib
+	url = https://github.com/trgkpc/avr_lib
